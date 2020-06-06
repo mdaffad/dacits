@@ -1,6 +1,6 @@
 # DAC ITS 2019
 
-Submission for Data Analysis Competition Surabaya Institute of Technology
+Submission for Data Analysis Competition Institut Teknologi Sepuluh Nopember Surabaya
 
 Contributor :
 1. Muhammad Daffa Dinaya
